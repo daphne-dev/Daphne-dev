@@ -6,4 +6,9 @@
 함께 일하고 싶은 개발자가 되려고 노력하고 있습니다 😀
 
 
-http://img.shields.io/badge/-Tech blog-black?style=flat&logo=github&link=https://daphne-dev.github.io/
+
+<a href="https://daphne-dev.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech blog-black?style=flat&logo=Github&link=https://daphne-dev.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
