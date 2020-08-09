@@ -1,4 +1,4 @@
-# Daphne [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaphne-dev)](https://hits.seeyoufarm.com)
+## Daphne [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaphne-dev)](https://hits.seeyoufarm.com) ![](https://img.shields.io/github/followers/Daphne-dev?style=social)
 
 ## Daphne-dev : Back-End Developer
 
@@ -6,3 +6,4 @@
 함께 일하고 싶은 개발자가 되려고 노력하고 있습니다 😀
 
 
+http://img.shields.io/badge/-Tech blog-black?style=flat&logo=github&link=https://daphne-dev.github.io/
