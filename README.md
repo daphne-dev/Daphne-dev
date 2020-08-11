@@ -15,13 +15,6 @@
 
 #### 이런 것들을 할 수 있어요
 ![HTML](https://user-images.githubusercontent.com/59605994/89854712-8f78e700-dbcf-11ea-919c-b45dbc0bb232.png)
-
-<figure>
-  <img src="https://user-images.githubusercontent.com/59605994/89854712-8f78e700-dbcf-11ea-919c-b45dbc0bb232.png" alt="HTML"/>
-  <figcaption>HTML</figcaption>
-</figure>
-
-
 ![icons8-css3-48](https://user-images.githubusercontent.com/59605994/89854463-e92ce180-dbce-11ea-826a-88927677726c.png "CSS") 
 ![icons8-javascript-48](https://user-images.githubusercontent.com/59605994/89854755-b0d9d300-dbcf-11ea-8c48-0735e77b2c6e.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/59605994/89854693-7e2fda80-dbcf-11ea-9dc9-1bc600782a43.png)
