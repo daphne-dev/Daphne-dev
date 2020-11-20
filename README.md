@@ -18,11 +18,11 @@
 ![icons8-css3-48](https://user-images.githubusercontent.com/59605994/89854463-e92ce180-dbce-11ea-826a-88927677726c.png "CSS") 
 ![icons8-javascript-48](https://user-images.githubusercontent.com/59605994/89854755-b0d9d300-dbcf-11ea-8c48-0735e77b2c6e.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/59605994/89854693-7e2fda80-dbcf-11ea-9dc9-1bc600782a43.png)
-
+![icons8-django-48](https://user-images.githubusercontent.com/59605994/89854909-175ef100-dbd0-11ea-9bfd-9bdad824a7ec.png)
+![icons8-nodejs-48](https://user-images.githubusercontent.com/59605994/89854782-bf27ef00-dbcf-11ea-99db-d3565cf300e3.png)
 
 
 #### 이런 것에 관심이 있어요
-![icons8-nodejs-48](https://user-images.githubusercontent.com/59605994/89854782-bf27ef00-dbcf-11ea-99db-d3565cf300e3.png)
 ![icons8-react-native-48](https://user-images.githubusercontent.com/59605994/89854769-b9320e00-dbcf-11ea-9807-0caf9a22461d.png)
-![icons8-django-48](https://user-images.githubusercontent.com/59605994/89854909-175ef100-dbd0-11ea-9bfd-9bdad824a7ec.png)
+![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/59605994/99767845-1894a800-2b47-11eb-852b-f8fbbd369557.png)
 
