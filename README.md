@@ -11,9 +11,10 @@
 </a>
 
 
+## 🛠 Tech Stack
 
 <div align=center>
-## 🛠 Tech Stack
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white)
@@ -21,7 +22,6 @@
 </div>
 
 <div align=center>
-
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
