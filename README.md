@@ -11,7 +11,7 @@
 
 <div align=center>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white)
@@ -35,7 +35,7 @@
 
 <div align=center>
 
-## Contact me 
+### Contact me 
 ![](https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Github&logoColor=white&link=https://daphne-dev.github.io)
 ![](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daphne01215@gmail.com)
 
