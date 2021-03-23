@@ -38,6 +38,10 @@
 ### . . .
 ![](https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Github&logoColor=white&link=https://daphne-dev.github.io)
 ![](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daphne01215@gmail.com)
+	
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://daphne-dev.github.io)](https://daphne-dev.github.io)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daphne01215@gmail.com)](mailto:daphne01215@gmail.com)
+	
 
 </div>
 
