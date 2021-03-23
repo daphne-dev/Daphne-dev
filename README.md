@@ -1,3 +1,5 @@
+<div align=center>
+
 ## Daphne-Dev : Web Back-End Developer [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaphne-dev)](https://hits.seeyoufarm.com) ![](https://img.shields.io/github/followers/Daphne-dev?style=social)
 
 웹 백엔드 개발에 관심이 많은 개발자입니다 🙌  
@@ -10,6 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+</div>
 
 <div align=center>
 
@@ -27,7 +30,7 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![](https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
