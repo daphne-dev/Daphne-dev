@@ -29,10 +29,13 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-</div>
+</div> 
+
+
 
 <div align=center>
 
+# ...
 ![](https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Github&logoColor=white&link=https://daphne-dev.github.io)
 ![](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daphne01215@gmail.com)
 
