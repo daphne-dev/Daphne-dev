@@ -6,11 +6,6 @@
 함께 일하고 싶은 개발자가 되려고 노력하고 있습니다 😀
 
 ![Daphne's github stats](https://github-readme-stats.vercel.app/api?username=Daphne-Dev&show_icons=true)
-<a href="https://daphne-dev.github.io">
-    <img 
-        src="http://img.shields.io/badge/-Tech blog-black?style=flat&logo=Github&link=https://daphne-dev.github.io/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 </div>
 
@@ -30,9 +25,16 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+</div>
+
+<div align=center>
+
+![](https://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Github&logoColor=white&link=https://daphne-dev.github.io)
+![](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daphne01215@gmail.com)
 
 </div>
 
