@@ -34,3 +34,8 @@ Back-End Developer
 
 
 </div>
+
+<div align=center>
+  <img width="100" height="100" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/c94a4e0c-2677-41aa-a59b-00698abd85bb" />
+  <div>2025.05.17</div>
+</div>
